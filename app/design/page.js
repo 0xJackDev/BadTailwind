@@ -5,7 +5,7 @@ export default function Page() {
   <div className="grid grid-cols-5 grid-rows-5 gap-4  h-screen v-screen overflow-hidden ">
           <div className="col-start-1 row-start-2 w-[60vw] h-[100vh] bg-white rounded-lg shadow-lg z-0 border-black border-2 rounded-3xl" ></div>
           <div className="col-start-2 row-start-2 z-10 -mt-20 ">
-              <img src={'/images/logo-32x-32.png'} width={125} height={124}/>
+              <img src={'/images/logo-32x-32.png'} width={125} height={124} alt="emoji"/>
           </div>
           <div className="col-start-1 row-start-2 z-10 text-6xl text-wrap pt-20 pl-20 text-nowrap text-left text-blue-800	">QR code Component</div>
           <p className="col-start-1 row-start-3 z-10 text-left text-wrap text-xl pl-20 "> This is a Figma design file for a Frontend Mentor challenge. Figma is a  design tool professional teams use to collaborate on projects. Need help  using Figma? Read our Figma for developers article</p>
@@ -18,7 +18,7 @@ export default function Page() {
           <div className="flex items-start space-x-4">
             <img src="/images/emoji_1.png" className="w-12 h-12" alt="emoji" />
             <p>
-            The design system contains all the information for reusable components and styles. It shows colors, typography styles, and components, including various component states if they&apos;re interactive.
+            The design system contains all the information for reusable components and styles. It shows colors typography styles and components including various component states if theyre interactive
             </p>
           </div>
         </div>
@@ -28,7 +28,7 @@ export default function Page() {
           <div className="flex items-start space-x-4">
             <img src="/images/emoji_2.png" className="w-12 h-12" alt="emoji" />
             <p>
-            The high-fidelity designs help you build responsive, accessible projects. Aim for precision rather than pixel-perfect replicas. For guidance, see Josh Comeau&apos;s &quot;Chasing the Pixel-Perfect Dream.&quot;
+            The high-fidelity designs help you build responsive, accessible projects. Aim for precision rather than pixelperfect replicas For guidance see Josh Comeas Chasing the Pixel-Perfect Dream.
             </p>
           </div>
         </div>
