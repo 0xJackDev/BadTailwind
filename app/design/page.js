@@ -18,7 +18,7 @@ export default function Page() {
           <div className="flex items-start space-x-4">
             <img src="/images/emoji_1.png" className="w-12 h-12" alt="emoji" />
             <p>
-              The design system contains all the information for reusable components and styles. It shows colors, typography styles, and components, including various component states if they're interactive.
+            The design system contains all the information for reusable components and styles. It shows colors, typography styles, and components, including various component states if they&apos;re interactive.
             </p>
           </div>
         </div>
@@ -28,7 +28,7 @@ export default function Page() {
           <div className="flex items-start space-x-4">
             <img src="/images/emoji_2.png" className="w-12 h-12" alt="emoji" />
             <p>
-              The high-fidelity designs help you build responsive, accessible projects. Aim for precision rather than pixel-perfect replicas. For guidance, see Josh Comeau's "Chasing the Pixel-Perfect Dream."
+            The high-fidelity designs help you build responsive, accessible projects. Aim for precision rather than pixel-perfect replicas. For guidance, see Josh Comeau&apos;s &quot;Chasing the Pixel-Perfect Dream.&quot;
             </p>
           </div>
         </div>
